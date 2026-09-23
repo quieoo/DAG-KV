@@ -11,7 +11,7 @@ This GitHub repository contains documentation only; it does not distribute the s
 
 ## Evaluation Status
 
-The current artifact workspace covers the following paper results:
+The primary evaluation targets are the main accuracy results and the reuse-efficiency results reported in Secs. 5.2–5.4. Additional experiments from Secs. 5.5–5.7 will be made available soon.
 
 | Paper section | Result | Status |
 |---|---|---|
