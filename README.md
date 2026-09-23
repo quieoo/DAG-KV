@@ -18,7 +18,7 @@ The primary evaluation targets are the main accuracy results and the reuse-effic
 | Sec. 5.2 | Main results (Figure 6 and Table 3) | Ready |
 | Sec. 5.3 | Structural reasoning (Figures 7–8) | Ready |
 | Sec. 5.4 | Reuse efficiency (Figure 9) | Ready |
-| Sec. 5.5 | Knowledge editability (Figure 10) | In progress |
+| Sec. 5.5 | Knowledge editability (Figure 10) | Ready |
 | Sec. 5.6 | Ablation study (Figure 11) | In progress |
 | Sec. 5.7 | Sensitivity analysis (Figure 12) | In progress |
 
