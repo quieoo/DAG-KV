@@ -11,7 +11,6 @@ This GitHub repository contains documentation only; it does not distribute the s
 
 ## Evaluation Status
 
-The primary evaluation targets are the main accuracy results and the reuse-efficiency results reported in Secs. 5.2–5.4. Additional experiments from Secs. 5.5–5.7 will be made available soon.
 
 | Paper section | Result | Status |
 |---|---|---|
@@ -19,7 +18,7 @@ The primary evaluation targets are the main accuracy results and the reuse-effic
 | Sec. 5.3 | Structural reasoning (Figures 7–8) | Ready |
 | Sec. 5.4 | Reuse efficiency (Figure 9) | Ready |
 | Sec. 5.5 | Knowledge editability (Figure 10) | Ready |
-| Sec. 5.6 | Ablation study (Figure 11) | In progress |
+| Sec. 5.6 | Ablation study (Figure 11) | Ready |
 | Sec. 5.7 | Sensitivity analysis (Figure 12) | In progress |
 
 The status table will be updated as the remaining evaluation materials are finalized.
