@@ -19,11 +19,11 @@ This GitHub repository contains documentation only; it does not distribute the s
 | Sec. 5.4 | Reuse efficiency (Figure 9) | Ready |
 | Sec. 5.5 | Knowledge editability (Figure 10) | Ready |
 | Sec. 5.6 | Ablation study (Figure 11) | Ready |
-| Sec. 5.7 | Sensitivity analysis (Figure 12) | In progress |
+| Sec. 5.7 | Sensitivity analysis (Figure 12) | Ready |
 
-The status table will be updated as the remaining evaluation materials are finalized.
+All evaluation and scripts are available.
 
-## Evaluation Environment
+#### Evaluation Environment
 
 The evaluation environment is preconfigured. The main experimental setup includes:
 
